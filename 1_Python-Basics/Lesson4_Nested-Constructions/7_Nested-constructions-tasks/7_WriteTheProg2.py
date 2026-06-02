@@ -1,0 +1,5 @@
+feedback = input('How do you like your training? ')
+feedback = feedback.lower()
+print('Review length:', len(feedback))
+print('Search for cons:', feedback.find('boring'))
+print('Search for pros:', feedback.find('cool'))

@@ -1,0 +1,5 @@
+first_name = input('First name: ')
+date = input('Birthday: ')
+index = input('Personal number: ')
+index = int(index)
+print('Client added to the database')

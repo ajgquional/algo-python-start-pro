@@ -1,0 +1,1 @@
+print("Amount of employee salaries:", 1000*12)

@@ -53,6 +53,7 @@ pycparser==2.22
 pydub==0.25.1
 pygame==2.6.1
 Pygments==2.18.0
+pyinstaller==6.20.0 # added
 pymunk==6.9.0
 pyparsing==3.2.0
 PyQt5==5.15.11

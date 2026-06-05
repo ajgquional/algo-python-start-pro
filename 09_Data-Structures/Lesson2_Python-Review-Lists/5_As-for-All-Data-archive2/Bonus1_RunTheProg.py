@@ -1,0 +1,8 @@
+print("Completing the student profile")
+student_name = input("Enter the student's last name: ")
+student_marks = input("Enter the student's grades: ")
+student_marks = student_marks.split(' ')
+student = list()
+student.append(student_name)
+student.append(student_marks)
+print(student)

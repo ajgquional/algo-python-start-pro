@@ -1,0 +1,1 @@
+my_number = 9 #the secret number, do not change

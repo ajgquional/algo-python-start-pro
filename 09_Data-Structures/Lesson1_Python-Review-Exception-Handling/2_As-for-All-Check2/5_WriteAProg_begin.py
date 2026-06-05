@@ -1,0 +1,5 @@
+print('What does WHO stand for?')
+print('1-World Health Organization')
+print('2-World Habitat Organization')
+print('3-Worldwide Horticulture Organization')
+print('4-Worldwide Happiness Organization')

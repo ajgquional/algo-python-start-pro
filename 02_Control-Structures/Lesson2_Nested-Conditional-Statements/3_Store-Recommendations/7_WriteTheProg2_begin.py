@@ -1,0 +1,1 @@
+#finding the highest price out of three

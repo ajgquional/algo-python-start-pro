@@ -1,0 +1,1 @@
+while input('Enter your promo code:') != 'life':

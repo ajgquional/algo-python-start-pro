@@ -1,0 +1,5 @@
+who = int(input('Enter the name of your startup'))
+Day = int(input('Enter the foundation date of the startup'))
+Year = int(input('Enter the year the startup was founded'))
+print('Welcome', who, ' - a promising new IT startup.') 
+print('The who company was founded on day, year.')

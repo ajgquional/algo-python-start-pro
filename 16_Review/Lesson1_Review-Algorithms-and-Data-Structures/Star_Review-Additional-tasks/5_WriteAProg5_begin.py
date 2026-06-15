@@ -1,0 +1,1 @@
+voices = {'ProTeam':0, 'IT-Power':0, 'SuperTech':0,'YodaCode':0}

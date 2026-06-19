@@ -1,4 +1,8 @@
-# Python Start (Year 1 and 2) and Python Pro (Year 2) by Algorithmics
+# Python Start to Pro by Algorithmics
+
+<p align="center">
+    <img src="docs/PythonStartProCombined.png" width=640 alt="Python Start and Pro Combined Promo">
+</p>
 
 ## Description
 

@@ -1,0 +1,1 @@
+#write here a code for main window of the game

@@ -1,0 +1,10 @@
+from turtle import *
+pensize(2)
+forward(100)
+left(100)
+forward(100)
+left(80)
+forward(100)
+left(110)
+forward(100)
+exitonclick()

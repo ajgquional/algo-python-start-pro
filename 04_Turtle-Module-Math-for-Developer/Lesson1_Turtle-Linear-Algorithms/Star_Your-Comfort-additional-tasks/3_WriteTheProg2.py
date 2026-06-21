@@ -1,0 +1,18 @@
+from turtle import *
+
+pensize(2)
+forward(30)
+left(90)
+forward(30)
+right(90)
+forward(30)
+left(90)
+forward(30)
+right(90)
+forward(30)
+left(90)
+forward(30)
+right(90)
+forward(30)
+
+exitonclick()
